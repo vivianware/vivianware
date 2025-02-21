@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=vivianware&color=ffd1dc)
 # 💫 About Me:
 - Graduated with a Bachelor's degree in Software Engineering.
-- This is just my secondary account for Vivianware.
+- Experienced in web development.
+- Currently interested in game hacking. 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/vivianwares) 
